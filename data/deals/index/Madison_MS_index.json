@@ -1,0 +1,22 @@
+{
+  "deals": [
+    {
+      "document_id": "Robert_Williams_20260210",
+      "filepath": "./data/deals/cases/Madison_Robert_Williams_20260210_20260210_194902.json",
+      "probability": 77.6,
+      "saved_at": "2026-02-10T19:49:02.715053"
+    },
+    {
+      "document_id": "Judith_Anderson_20260210",
+      "filepath": "./data/deals/cases/Madison_Judith_Anderson_20260210_20260210_194902.json",
+      "probability": 73.0,
+      "saved_at": "2026-02-10T19:49:02.715363"
+    },
+    {
+      "document_id": "Kenneth_Brown_20260210",
+      "filepath": "./data/deals/cases/Madison_Kenneth_Brown_20260210_20260210_194902.json",
+      "probability": 72.8,
+      "saved_at": "2026-02-10T19:49:02.715639"
+    }
+  ]
+}

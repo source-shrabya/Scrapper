@@ -1,0 +1,36 @@
+{
+  "county_name": "Jackson",
+  "state": "MS",
+  "website_url": "https://www.co.jackson.ms.us/",
+  "site_type": "recorder",
+  "search_url": "https://www.co.jackson.ms.us/deed/search",
+  "button_map": null,
+  "search_fields": {
+    "document_type": "#docType",
+    "name": "#partyName",
+    "date_from": "#startDate",
+    "date_to": "#endDate",
+    "book": "#bookNumber",
+    "page": "#pageNumber"
+  },
+  "document_types": [
+    "substitute_trustee",
+    "deed_of_trust"
+  ],
+  "pagination_selector": ".pagination",
+  "next_page_selector": "a.next",
+  "field_hints": {
+    "property_address_page": 2,
+    "owner_name_indicators": [
+      "Borrower",
+      "Grantor"
+    ],
+    "loan_date_indicators": [
+      "original deed of trust date"
+    ]
+  },
+  "delay_between_clicks": 0.5,
+  "delay_between_searches": 1.0,
+  "is_active": true,
+  "notes": null
+}

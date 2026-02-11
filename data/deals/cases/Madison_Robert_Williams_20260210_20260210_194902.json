@@ -1,0 +1,157 @@
+{
+  "conclusion": "Deal Probability: 77.6%",
+  "property": {
+    "address": {
+      "street": "1850 County Road 37",
+      "city": "Madison",
+      "state": "MS",
+      "zip": "Madison"
+    },
+    "county": "Madison",
+    "parcel": {
+      "ppin": null,
+      "parcelNumber": null
+    },
+    "legalDescription": null,
+    "beds": null,
+    "baths": null,
+    "squareFootage": null
+  },
+  "owner": {
+    "name": "Robert Williams",
+    "phone": null,
+    "email": null,
+    "mailingAddress": null,
+    "notes": null
+  },
+  "taxes": {
+    "currentTaxBalance": null,
+    "taxDueDate": null,
+    "exemptionStatus": null
+  },
+  "valuation": {
+    "arv": null,
+    "arvSource": null,
+    "propertyValueViaComparison": null,
+    "rentZestimate": null,
+    "zillow": {
+      "zillowImg": null,
+      "zillowUrl": null
+    },
+    "images": [],
+    "aboutTheProperty": null
+  },
+  "repairs": {
+    "repairTierPerSqFt": null,
+    "estimatedRepairs": null
+  },
+  "deal": {
+    "assignmentFee": null,
+    "offerPriceToSeller": null,
+    "offerPricePlusAssignment": null,
+    "cashSellerGetsIfAny": null,
+    "estimatedInvestorProfitHighEnd": null
+  },
+  "foreclosure": {
+    "foreclosingLender": null,
+    "auctionDate": "2026-02-16"
+  },
+  "contact": {
+    "lastContactDate": null,
+    "nextFollowUpDate": null
+  },
+  "loan": {
+    "newTrusteeSubstitute": null,
+    "loanType": null,
+    "deedsOfTrust": [
+      {
+        "notePrincipal": 275000.0,
+        "originalLender": null,
+        "originalDate": "2006-09-12",
+        "interestRate": 6.75,
+        "termMonths": 360,
+        "maturityDate": null,
+        "notes": null
+      }
+    ]
+  },
+  "numbers": {
+    "estimatedDebt": 114833.67556468176,
+    "estimatedEquity": 305166.32443531824,
+    "equityPercent": 72.65864867507578,
+    "equityDollars": null,
+    "arvDollars": 420000,
+    "calcAssumptions": {
+      "assumedInterestRate": null,
+      "assumedTermMonths": null,
+      "assumedStartDate": null,
+      "assumedPaymentHistory": null,
+      "notes": null
+    }
+  },
+  "probate": {
+    "confirmedDeceased": null,
+    "deathDate": null,
+    "deathConfirmedBy": null,
+    "deathConfirmationLinks": [],
+    "probateOpened": null,
+    "probateCaseNumber": null,
+    "probateCourt": null,
+    "probateCounty": null,
+    "probateState": null,
+    "estateStatus": null,
+    "willKnown": null,
+    "executor": {
+      "name": null,
+      "role": null,
+      "appointed": null,
+      "phone": null,
+      "email": null,
+      "address": null,
+      "notes": null
+    },
+    "attorney": {
+      "name": null,
+      "firm": null,
+      "phone": null,
+      "email": null,
+      "notes": null
+    },
+    "heirs": [],
+    "familyDynamics": null,
+    "disputeFlags": {
+      "heirConflict": null,
+      "unknownHeirsPossible": null,
+      "contestedWill": null,
+      "occupantRefusingAccess": null,
+      "squatterRisk": null
+    },
+    "occupancy": {
+      "isOccupied": null,
+      "occupantType": null,
+      "occupantName": null,
+      "cashForKeysPotential": null,
+      "notes": null
+    },
+    "timeline": [],
+    "nextSteps": [],
+    "dealReadiness": {
+      "canSignNow": null,
+      "blockers": [],
+      "estimatedTimeToAuthorityDays": null,
+      "notes": null
+    }
+  },
+  "floodRisk": {
+    "femaZone": null,
+    "bfeFeet": null,
+    "insuranceMandatory": null,
+    "groundElevationFeet": null,
+    "elevationValuesRaw": [],
+    "sourcePanel": null,
+    "sourceLinks": [],
+    "heuristicSummary": null
+  },
+  "documents": [],
+  "notes": []
+}

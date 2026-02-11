@@ -1,0 +1,16 @@
+# secrets
+.env
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# private data and documents
+data/deals/
+data/output/
+logs/
+*Partner_Briefing*.pdf
+
+.DS_Store

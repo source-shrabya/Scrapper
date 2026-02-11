@@ -1,0 +1,25 @@
+{
+  "county_name": "Madison",
+  "state": "MS",
+  "website_url": "https://www.co.madison.ms.us/",
+  "site_type": "recorder",
+  "search_url": "https://www.co.madison.ms.us/deed-search",
+  "button_map": null,
+  "search_fields": {
+    "document_type": "#doc-type-select",
+    "book": "#book-select",
+    "date_from": "#date-from",
+    "date_to": "#date-to"
+  },
+  "document_types": [
+    "substitute_trustee",
+    "deed_of_trust"
+  ],
+  "pagination_selector": ".pagination",
+  "next_page_selector": ".next-page",
+  "field_hints": null,
+  "delay_between_clicks": 0.5,
+  "delay_between_searches": 1.0,
+  "is_active": true,
+  "notes": "Madison County property records - active configuration"
+}
